@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\4261216308\\Documents\\OlaMundoBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OlaMundoBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OlaMundoBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\4261216308\\Documents\\OlaMundoBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\4261216308\\Documents\\OlaMundoBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\4261216308\\Documents\\OlaMundoBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\4261216308\\Documents\\OlaMundoBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OlaMundoBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OlaMundoBlazor.props",
+      "PackagePath": "build\\OlaMundoBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OlaMundoBlazor.props",
+      "PackagePath": "buildMultiTargeting\\OlaMundoBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OlaMundoBlazor.props",
+      "PackagePath": "buildTransitive\\OlaMundoBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
